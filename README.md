@@ -1,5 +1,5 @@
 # Instructions
-## Requirements: You need to have Python 3.x.x and GIT installed on your computer in order to play the game. If you do not have them installed, please visit https://www.python.org/downloads/ and https://git-scm.com/downloads to download the latest releases of the programs.
+#### Requirements: You need to have Python 3.x.x and GIT installed on your computer in order to play the game. If you do not have them installed, please visit https://www.python.org/downloads/ and https://git-scm.com/downloads to download the latest releases of the programs.
 
 ### Clone the git repository 
 ```git clone https://github.com/Crspy2/MazeSprinter.git```
